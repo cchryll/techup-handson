@@ -1,0 +1,28 @@
+
+/* HEADER */
+
+h1 {
+    color:navy;
+    background-color:thistle;
+
+    text-align: center;
+    border: 10px black solid;
+
+    margin-bottom: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.title {
+    background-color:lavender;
+}
+
+h3 {
+    color:lightpink;
+    text-align: center;
+}
+
+#important {
+    color: yellow;
+}
